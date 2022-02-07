@@ -15,3 +15,6 @@ $ git commit -m "Comentário"
 
 Mostrar os Commits
 $ git log
+
+Enviar os Commits ao gitHub
+$ git push
