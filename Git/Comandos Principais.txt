@@ -1,0 +1,17 @@
+Clonar Repositório:
+$ git clone "Rep.link"
+
+Iniciar um repositório local
+$ git init
+
+Verificar Status Local
+$ git status
+
+Adicionar mudanças a Branch Master
+$ git add *
+
+Commit
+$ git commit -m "Comentário"
+
+Mostrar os Commits
+$ git log
