@@ -1,0 +1,8 @@
+JVM - Maquina virtual tradutora dos ByteCodes oriundos do JAVAC.
+
+JRE - Executa os programas Java
+
+JDK - Permite o desenvolvimento de programas Java. possuim o JVM
+
+
+Plataformas Java - Java[SE,EE,ME]
