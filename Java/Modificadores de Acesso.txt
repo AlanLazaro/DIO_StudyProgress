@@ -1,0 +1,5 @@
+Public - Qualquer classe de qualquer pacote pode acessar o atributo ou método.
+
+Protected - Qualquer classe definida no mesmo pacote ou subclasse.
+
+Private - Apenas a própria classe.
