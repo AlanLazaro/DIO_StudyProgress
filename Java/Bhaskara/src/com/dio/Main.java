@@ -17,8 +17,8 @@ public class Main {
 
         Calculo calc = new Calculo(a,b,c);
 
-        System.out.println("X1: " + calc.x1());
-        System.out.println("X1: " + calc.x2());
+        calc.bhaskara();
+
 
 
     }
